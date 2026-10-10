@@ -1,0 +1,2 @@
+#!/bin/sh
+exec /usr/bin/python3 /usr/share/pacman2026/run.py "$@"

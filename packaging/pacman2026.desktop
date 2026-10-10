@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=Pacman2026
+Name[ru]=Pacman2026
+Comment=Maze chase game with sound
+Comment[ru]=Игра в лабиринте со звуком
+Exec=pacman2026
+Icon=pacman2026
+Terminal=false
+Categories=Game;ArcadeGame;
+StartupNotify=false
